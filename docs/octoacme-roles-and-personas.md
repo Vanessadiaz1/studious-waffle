@@ -89,7 +89,7 @@ UX/UI Designers define the user experience and visual interface, ensuring the pr
 
 ### Goals
 - Deliver intuitive, accessible user experiences
-- Reduce user friction and support tasks
+- Reduce user friction and support requests
 - Ensure design consistency across features
 
 ### Typical Communication
@@ -218,12 +218,12 @@ Engaging the right roles at the right time reduces rework, improves quality, and
 - **Support Lead**: Brief support team on changes; monitor initial feedback and escalations
 
 ### Retrospective
-- **All roles**: Participate in retrospectives to capture cross-functional learnings and improve handoffs
+- **All Roles**: Participate in retrospectives to capture cross-functional learnings and improve handoffs
 
 ---
 
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-- See `octoacme-role-engagement-checklist.md` for a lightweight template to ensure timely role engagement across project phases.
+- See [OctoAcme Role Engagement Checklist](octoacme-role-engagement-checklist.md) for a lightweight template to ensure timely role engagement across project phases.
 

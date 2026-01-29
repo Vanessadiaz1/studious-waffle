@@ -115,10 +115,10 @@ This checklist helps teams identify when to engage key roles across the project 
 
 ## Related Documentation
 
-- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions
+- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions
 - [OctoAcme Project Management Overview](octoacme-project-management-overview.md) - Core principles and lifecycle
-- [OctoAcme Project Initiation](octoacme-project-initiation.md) - Kickoff phase details
-- [OctoAcme Project Planning](octoacme-project-planning.md) - Planning phase details
-- [OctoAcme Execution and Tracking](octoacme-execution-and-tracking.md) - Execution phase details
-- [OctoAcme Release and Deployment](octoacme-release-and-deployment.md) - Release phase details
-- [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Retrospective phase details
+- [OctoAcme — Project Initiation Guide](octoacme-project-initiation.md) - Kickoff phase details
+- [OctoAcme — Project Planning](octoacme-project-planning.md) - Planning phase details
+- [OctoAcme — Execution & Tracking](octoacme-execution-and-tracking.md) - Execution phase details
+- [OctoAcme — Release & Deployment Guide](octoacme-release-and-deployment.md) - Release phase details
+- [OctoAcme — Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Retrospective phase details
